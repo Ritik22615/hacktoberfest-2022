@@ -13,9 +13,9 @@ int main(){
     {
         printf("Your number is 2\n");
     }
-    else if (num == 3)
+    else if (num == 4)
     {
-        printf("Your number is 3\n");
+        printf("Your number is 4\n");
     }
     else{
         printf("Its not 1, 2 or 3!\n");

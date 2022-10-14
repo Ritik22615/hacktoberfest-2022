@@ -13,7 +13,7 @@ int main(){
     }
 
 
-    if(age==50){
+    if(age==60){
         printf("Half Century\n");
     }
 
